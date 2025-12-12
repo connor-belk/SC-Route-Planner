@@ -1,0 +1,1067 @@
+{
+  "starSystems": [
+    {
+      "system": "Stanton",
+      "star": "Stanton",
+      "x": 0,
+      "y": 0,
+      "d": 0,
+      "planets": [
+        {
+          "name": "Hurston",
+          "x": 0,
+          "y": 0,
+          "d": 12.85,
+          "groundLocations": [
+            "Lorville",
+            "HDMS-Edmond",
+            "HDMS-Hadley",
+            "HDMS-Oparei",
+            "HDMS-Pinewood",
+            "HDMS-Stanhope",
+            "HDMS-Thedus",
+            "HDSF-Adlai",
+            "HDSF-Barnabas",
+            "HDSF-Breckinridge",
+            "HDSF-Colfax",
+            "HDSF-Damaris",
+            "HDSF-Elbridge",
+            "HDSF-Hendricks",
+            "HDSF-Hiram",
+            "HDSF-Hobart",
+            "HDSF-Ishmael",
+            "HDSF-Millerand",
+            "HDSF-Rufus",
+            "HDSF-Sherman",
+            "HDSF-Tamar",
+            "HDSF-Tompkins",
+            "HDSF-Zacharias",
+            "HDRSO-Bramen",
+            "Security Depot Hurston-1",
+            "Reclamation & Disposal Orinth",
+            "HDMO-Calthrope",
+            "Downed Relay AC-652",
+            "Rappel"
+          ],
+          "satellites": [
+            {
+              "name": "Arial",
+              "x": 0,
+              "y": -0.13,
+              "d": 12.89,
+              "groundLocations": ["HDMS-Bezdek", "HDMS-Lathan"],
+              "artificialSatellites": ["Comm Array ST1-13"]
+            },
+            {
+              "name": "Aberdeen",
+              "x": 0,
+              "y": 0.18,
+              "d": 12.9,
+              "groundLocations": [
+                "HDMS-Norgaard",
+                "HDMS-Anderson",
+                "Klescher Rehabilitation Facility",
+                "Barton Flats Aid Shelter",
+                "HDMO-Dobbs"
+              ],
+              "artificialSatellites": ["Comm Array ST1-92"]
+            },
+            {
+              "name": "Magda",
+              "x": 0,
+              "y": -0.33,
+              "d": 12.79,
+              "groundLocations": ["HDMS-Perlman", "HDMS-Hahn"],
+              "artificialSatellites": ["Comm Array ST1-48"]
+            },
+            {
+              "name": "Ita",
+              "x": 0,
+              "y": 0.51,
+              "d": 12.83,
+              "locations": [
+                "HDMS-Ryder",
+                "HDMS-Woodruff",
+                "The Shades",
+                "Thimblerig"
+              ],
+              "artificialSatellites": ["Comm Array ST1-13"]
+            }
+          ],
+          "artificialSatellites": ["Everus Harbour", "Comm Array ST1-61"],
+          "lagrangePoints": [
+            {
+              "name": "HUR-L1 Green Glade Station",
+              "x": 0,
+              "y": 0,
+              "d": 11.56
+            },
+            {
+              "name": "HUR-L2 Faithful Dream Station",
+              "x": 0,
+              "y": 0,
+              "d": 14.13
+            },
+            {
+              "name": "HUR-L3 Thundering Express Station",
+              "x": 0,
+              "y": -179.99,
+              "d": 12.84
+            },
+            {
+              "name": "HUR-L4 Melodic Fields Station",
+              "x": 0,
+              "y": 59.98,
+              "d": 12.84
+            },
+            {
+              "name": "HUR-L5 High Course Station",
+              "x": 0,
+              "y": -59.99,
+              "d": 12.85
+            }
+          ],
+          "other": [
+            {
+              "name": "Wikelo Emporium Dasi Station",
+              "x": 0,
+              "y": 7.94,
+              "d": 14.47
+            }
+          ]
+        },
+        {
+          "name": "Crusader",
+          "x": 0,
+          "y": -171.99,
+          "d": 19.14,
+          "groundLocations": [
+            "Orison",
+            "Cloudrest Retreat",
+            "Empyrean Park",
+            "Prospect Point"
+          ],
+          "satellites": [
+            {
+              "name": "Cellin",
+              "x": 0,
+              "y": -171.88,
+              "d": 19.17,
+              "groundLocations": [
+                "Gallete Family Farms",
+                "Terra Mills HydroFarm",
+                "Tram & Myers Mining",
+                "Hickes Research Outpost",
+                "Criska",
+                "Dipur",
+                "Lespin",
+                "Ashburn Channel",
+                "Flanagan's Ravine",
+                "Julep Ravine",
+                "Mogote",
+                "NT-999-XV",
+                "PRIVATE PROPERTY",
+                "Abandoned Outpost"
+              ],
+              "artificialSatellites": [
+                "Security Post Kareah",
+                "Comm Array ST2-28"
+              ]
+            },
+            {
+              "name": "Daymar",
+              "x": 0,
+              "y": -172.14,
+              "d": 19.1,
+              "groundLocations": [
+                "Bountiful Harvest Hydroponics",
+                "ArcCorp Mining Area 141",
+                "Kudre Ore",
+                "Shubin Mining Facility SCD-1",
+                "Moluto",
+                "Prashad",
+                "Thaquray",
+                "NT-999-XVI",
+                "The Garden",
+                "TPF",
+                "Wailing Rock",
+                "Kudre Ore Mine (Closed)",
+                "Dunlow Ridge",
+                "Eager Flats",
+                "Tamdon Plains",
+                "Wolf Point",
+                "Brio's Breaker Yard",
+                "Whistlers Crypt",
+                "Yadar Valley",
+                "(Unnamed)",
+                "Nuen Waste Management",
+                "UEES Flyssa"
+              ],
+              "artificialSatellites": ["Covalex Hub Gundo", "Comm Array ST2-47"]
+            },
+            {
+              "name": "Yela",
+              "x": 0,
+              "y": -172.17,
+              "d": 19.2,
+              "groundLocations": [
+                "Abandoned Outpost",
+                "Afterlife",
+                "ArcCorp Mining Area 157",
+                "Aston Ridge Aid Shelter",
+                "Benson Mining Outpost",
+                "Connor's",
+                "Deakins Research Outpost",
+                "Jumptown",
+                "Kosso Basin Aid Shelter",
+                "Nakamura Valley Aid Shelter",
+                "NT-999-XX",
+                "NT-999-XXII",
+                "Security Post Opal",
+                "Security Post Wan",
+                "Talarine Divide Aid Shelter",
+                "Utopia"
+              ],
+              "artificialSatellites": ["GrimHEX", "Comm Array ST2-76"]
+            }
+          ],
+          "artificialSatellites": [
+            "Seraphim Station",
+            "Comm Array ST2-55",
+            "ICC Scanhub Stanton"
+          ],
+          "lagrangePoints": [
+            {
+              "name": "CRU-L1 Ambitious Dream Station",
+              "x": 0,
+              "y": -171.99,
+              "d": 17.23
+            },
+            {
+              "name": "CRU-L2",
+              "x": 0,
+              "y": -171.99,
+              "d": 21.06
+            },
+            {
+              "name": "CRU-L3",
+              "x": 0,
+              "y": 8,
+              "d": 19.14
+            },
+            {
+              "name": "CRU-L4 Shallow Fields Station",
+              "x": 0,
+              "y": -112,
+              "d": 19.14
+            },
+            {
+              "name": "CRU-L5 Beautiful Glen Station",
+              "x": 0,
+              "y": 127.98,
+              "d": 19.14
+            }
+          ],
+          "other": [
+            {
+              "name": "Wikelo Emporium Selo Station",
+              "x": 0,
+              "y": -176.41,
+              "d": 20.19
+            }
+          ]
+        },
+        {
+          "name": "ArcCorp",
+          "x": 0,
+          "y": -50,
+          "d": 28.91,
+          "groundLocations": [
+            "Area04",
+            "Area06",
+            "Area07",
+            "Area11",
+            "Area17",
+            "Area18",
+            "Area20",
+            "Area26",
+            "Area39"
+          ],
+          "satellites": [
+            {
+              "name": "Lyria",
+              "x": 0,
+              "y": -49.78,
+              "d": 28.96,
+              "groundLocations": [
+                "Humboldt Mines",
+                "Loveridge Mineral Reserve",
+                "Shubin Mining Facility SAL-2",
+                "Shubin Mining Facility SAL-5",
+                "Shubin Processing Facility SPAL-3",
+                "Shubin Processing Facility SPAL-7",
+                "Shubin Processing Facility SPAL-9",
+                "Shubin Processing Facility SPAL-12",
+                "Shubin Processing Facility SPAL-16",
+                "Shubin Processing Facility SPAL-21",
+                "Security Depot Lyria-1",
+                "Elsewhere",
+                "Teddys Playhouse",
+                "The Orphanage",
+                "The Pit",
+                "Wheelers",
+                "Paradise Cove",
+                "Launch Pad",
+                "Buckets"
+              ],
+              "artificialSatellites": ["Comm Array ST3-18"]
+            },
+            {
+              "name": "Wala",
+              "x": 0,
+              "y": -50.12,
+              "d": 28.66,
+              "groundLocations": [
+                "Shady Glen Farms",
+                "ArcCorp Mining Area 045",
+                "ArcCorp Mining Area 048",
+                "ArcCorp Mining Area 056",
+                "ArcCorp Mining Area 061",
+                "ArcCorp Processing Center 115",
+                "ArcCorp Processing Center 123",
+                "Lost and Found",
+                "Good Times Temple",
+                "Samson & Son's Salvage Center"
+              ],
+              "artificialSatellites": ["Comm Array ST3-35"]
+            }
+          ],
+          "artificialSatellites": ["Baijini Point", "Comm Array ST3-90"],
+          "lagrangePoints": [
+            {
+              "name": "ARC-L1 Wide Forest Station",
+              "x": 0,
+              "y": -50,
+              "d": 26.02
+            },
+            {
+              "name": "ARC-L2 Lively Pathway Station",
+              "x": 0,
+              "y": -49.99,
+              "d": 31.81
+            },
+            {
+              "name": "ARC-L3 Modern Express Station",
+              "x": 0,
+              "y": -149.99,
+              "d": 28.92
+            },
+            {
+              "name": "ARC-L4 Faint Glen Station",
+              "x": 0,
+              "y": 9.99,
+              "d": 28.91
+            },
+            {
+              "name": "ARC-L5 Yellow Core Station",
+              "x": 0,
+              "y": -110,
+              "d": 28.92
+            }
+          ]
+        },
+        {
+          "name": "Microtech",
+          "x": 0,
+          "y": 58.86,
+          "d": 43.44,
+          "groundLocations": [
+            "MT DataCenter 2UB-RB9-5",
+            "MT DataCenter 4HJ-LVE-A",
+            "MT DataCenter 5WQ-R2V-C",
+            "MT DataCenter 8FK-Q2X-K",
+            "MT DataCenter D79-ECG-R",
+            "MT DataCenter E2Q-NSG-Y",
+            "MT DataCenter TMG-XEV-2",
+            "MT DataCenter QVX-J88-J",
+            "MT DataCenter L8P-JUC-8 (offline)",
+            "Calhoun Pass Emergency Shelter",
+            "Point Wain Emergency Shelter",
+            "Nuiqsut Emergency Shelter",
+            "Clear View Emergency Shelter",
+            "Shubin Mining Facility SM0-10",
+            "Shubin Mining Facility SM0-13",
+            "Shubin Mining Facility SM0-18",
+            "Shubin Mining Facility SM0-22",
+            "MT OpCenter LTI-4",
+            "Rayari Deltana Research Outpost",
+            "Rayari Livengood Research Outpost",
+            "Ghost Hollow",
+            "Outpost 54",
+            "The Necropolis"
+          ],
+          "satellites": [
+            {
+              "name": "Calliope",
+              "x": 0,
+              "y": 58.92,
+              "d": 43.39,
+              "groundLocations": [
+                "Shubin Mining Facility SMCa-6",
+                "Shubin Mining Facility SMCa-8",
+                "Shubin Processing Facility SPMC-1",
+                "Shubin Processing Facility SPMC-3",
+                "Shubin Processing Facility SPMC-5",
+                "Shubin Processing Facility SPMC-10",
+                "Shubin Processing Facility SPMC-11",
+                "Shubin Processing Facility SPMC-14",
+                "Rayari Anvik Research Outpost",
+                "Rayari Kaltag Research Outpost",
+                "Ravens Roost"
+              ],
+              "artificialSatellites": ["Comm Array ST4-31"]
+            },
+            {
+              "name": "Clio",
+              "x": 0,
+              "y": 58.78,
+              "d": 43.36,
+              "groundLocations": [
+                "Rayari Cantwell Research Outpost",
+                "Rayari McGrath Research Outpost"
+              ],
+              "artificialSatellites": ["Comm Array ST4-59"]
+            },
+            {
+              "name": "Euterpe",
+              "x": 0,
+              "y": 58.76,
+              "d": 43.36,
+              "groundLocations": [
+                "Buds Growery",
+                "The Icebreaker",
+                "Devlin Scrap & Salvage"
+              ],
+              "artificialSatellites": ["Comm Array ST4-64"]
+            }
+          ],
+          "artificialSatellites": ["Port Tressler", "Comm Array ST4-22"],
+          "lagrangePoints": [
+            {
+              "name": "MIC-L1 Shallow Frontier Station",
+              "x": 0,
+              "y": 58.86,
+              "d": 39.09
+            },
+            {
+              "name": "MIC-L2 Long Forest Station",
+              "x": -0.01,
+              "y": 58.86,
+              "d": 47.79
+            },
+            {
+              "name": "MIC-L3 Endless Odyssey Station",
+              "x": -0.01,
+              "y": -121.12,
+              "d": 43.43
+            },
+            {
+              "name": "MIC-L4 Red Crossroads Station",
+              "x": -0.01,
+              "y": 118.85,
+              "d": 43.45
+            },
+            {
+              "name": "MIC-L5 Modern Icarus Station",
+              "x": -0.01,
+              "y": -1.13,
+              "d": 43.45
+            }
+          ],
+          "other": [
+            {
+              "name": "Wikelo Emporium Kinga Station",
+              "x": 0,
+              "y": 58.79,
+              "d": 45.86
+            }
+          ]
+        }
+      ],
+      "artificialSatellites": [],
+      "jumpPoints": [
+        {
+          "name": "Pyro Gateway",
+          "x": -5.42,
+          "y": -83.25,
+          "d": 28.3
+        },
+        {
+          "name": "Terra Gateway",
+          "x": -4.82,
+          "y": -5.88,
+          "d": 51.57
+        },
+        {
+          "name": "Nyx Gateway",
+          "x": 16.88,
+          "y": 159.35,
+          "d": 69.55
+        }
+      ],
+      "other": []
+    },
+    {
+      "system": "Nyx",
+      "star": "Nyx",
+      "x": 0,
+      "y": 0,
+      "d": 0,
+      "planets": [],
+      "artificialSatellites": [
+        {
+          "name": "Levski",
+          "x": 0,
+          "y": -129.99,
+          "d": 14.99
+        }
+      ],
+      "jumpPoints": [
+        {
+          "name": "Stanton Gateway",
+          "x": 0,
+          "y": -119.99,
+          "d": 26.99
+        },
+        {
+          "name": "Pyro Gateway",
+          "x": 0,
+          "y": 120,
+          "d": 23.99
+        }
+      ],
+      "other": []
+    },
+    {
+      "system": "Pyro",
+      "star": "Pyro",
+      "x": 0,
+      "y": 0,
+      "d": 0,
+      "planets": [
+        {
+          "name": "Pyro I",
+          "x": 0,
+          "y": -136.22,
+          "d": 8.27,
+          "groundLocations": ["Gray Gardens Depot", "Rustville", "Stag's Rut"],
+          "satellites": [],
+          "artificialSatellites": [],
+          "lagrangePoints": [
+            {
+              "name": "PYR1-L1",
+              "x": 0,
+              "y": -162.22,
+              "d": 7.44
+            },
+            {
+              "name": "PYR1-L2",
+              "x": 0,
+              "y": -163.22,
+              "d": 9.1
+            },
+            {
+              "name": "PYR1-L5",
+              "x": 0,
+              "y": 136.77,
+              "d": 8.27
+            },
+            {
+              "name": "PYR1-L3",
+              "x": 0,
+              "y": 15.08,
+              "d": 8.56
+            },
+
+            {
+              "name": "PYR1-L4",
+              "x": 0,
+              "y": -103.22,
+              "d": 8.27
+            }
+          ]
+        },
+        {
+          "star": "Pyro",
+          "location": "Monox",
+          "x": 0,
+          "y": -55.22,
+          "d": 10.62,
+          "groundLocations": [
+            "Arid Reach",
+            "Jackson's Swap",
+            "Last Ditch",
+            "Ostler's Claim",
+            "Slowburn Depot",
+            "Sunset Mesa",
+            "Yang's Place"
+          ],
+          "satellites": [],
+          "artificialSatellites": [],
+          "lagrangePoints": [
+            {
+              "name": "PYR2-L1",
+              "x": 0,
+              "y": -54.22,
+              "d": 9.55
+            },
+            {
+              "name": "PYR2-L2",
+              "x": 0,
+              "y": -55.22,
+              "d": 11.68
+            },
+            {
+              "name": "PYR2-L5",
+              "x": 0,
+              "y": -125.22,
+              "d": 10.62
+            },
+
+            {
+              "name": "PYR2-L3",
+              "x": 0,
+              "y": 104.77,
+              "d": 10.62
+            },
+            {
+              "name": "Checkmate",
+              "x": 0.01,
+              "y": -5.19,
+              "d": 10.59
+            }
+          ]
+        },
+        {
+          "name": "Bloom",
+          "x": 0,
+          "y": 154.77,
+          "d": 17.8,
+          "groundLocations": [
+            "Prospect Depot",
+            "Bueno Ravine",
+            "Frigid Knot",
+            "Narena's Rest",
+            "Shepherd's Rest",
+            "Carver's Ridge",
+            "The Golden Riviera",
+            "The Yard",
+            "Windfall",
+            "Shadowfall"
+          ],
+          "satellites": [],
+          "artificialSatellites": ["Orbituary"],
+          "lagrangePoints": [
+            {
+              "name": "Starlight Service Station",
+              "x": 0,
+              "y": 155.79,
+              "d": 16.01
+            },
+            {
+              "name": "PYR3-L2",
+              "x": 0,
+              "y": 154.77,
+              "d": 19.58
+            },
+
+            {
+              "name": "PYR3-L5",
+              "x": 0,
+              "y": 44.77,
+              "d": 17.8
+            },
+
+            {
+              "name": "Patch City",
+              "x": 0,
+              "y": -35.26,
+              "d": 17.79
+            }
+          ]
+        },
+        {
+          "star": "Pyro",
+          "location": "Pyro V",
+          "x": 0,
+          "y": -95.22,
+          "d": 42.93,
+          "groundLocations": [],
+          "satellites": [
+            {
+              "name": "Ignis",
+              "x": 0,
+              "y": -95.29,
+              "d": 42.95,
+              "groundLocations": ["Ashland", "Kabirs Post"],
+              "artificialSatellites": []
+            },
+            {
+              "name": "Vatra",
+              "x": 0,
+              "y": -95.2,
+              "d": 42.86,
+              "groundLocations": ["Seers Canyon"],
+              "artificialSatellites": []
+            },
+            {
+              "name": "Adir",
+              "x": 0,
+              "y": -95.1,
+              "d": 42.89,
+              "groundLocations": [
+                "Prophets Peak",
+                "Derelict Outpost",
+                "Obsidian crack"
+              ],
+              "artificialSatellites": []
+            },
+            {
+              "name": "Fairo",
+              "x": 0,
+              "y": -95.25,
+              "d": 43.06,
+              "groundLocations": ["FEO Canyon Depot", "YW-2455-WS"],
+              "artificialSatellites": []
+            },
+            {
+              "name": "Fuego",
+              "x": 0,
+              "y": -95.04,
+              "d": 42.99,
+              "groundLocations": [],
+              "artificialSatellites": []
+            },
+            {
+              "name": "Vuur",
+              "x": 0,
+              "y": -95.42,
+              "d": 42.84,
+              "groundLocations": [],
+              "artificialSatellites": []
+            },
+            {
+              "name": "Pyro IV",
+              "x": 0,
+              "y": -94.91,
+              "d": 43.23,
+              "groundLocations": [
+                "Chawlas Beach",
+                "Dingers Depot",
+                "Fallow Field",
+                "Goners Deal",
+                "Sacrens Plot"
+              ],
+              "artificialSatellites": []
+            }
+          ],
+          "artificialSatellites": [],
+          "lagrangePoints": [
+            {
+              "name": "Rods Fuel N Supplies",
+              "x": -0.01,
+              "y": -15.2,
+              "d": 42.92
+            },
+            {
+              "name": "Gaslight",
+              "x": 0.02,
+              "y": -95.22,
+              "d": 47.21
+            },
+            {
+              "name": "PYR5-L3",
+              "x": 0,
+              "y": 64.77,
+              "d": 42.93
+            },
+            {
+              "name": "PYR5-L1",
+              "x": 0,
+              "y": -95.22,
+              "d": 38.64
+            },
+            {
+              "name": "Rats Nest",
+              "x": 0.02,
+              "y": -170.24,
+              "d": 42.92
+            }
+          ]
+        },
+        {
+          "name": "Terminus",
+          "x": 0,
+          "y": 134.77,
+          "d": 68.32,
+          "groundLocations": [
+            "Blackrock Exchange",
+            "Bullocks Reach",
+            "Canard View",
+            "Kinder Plots",
+            "Last Landings",
+            "Rough Landing",
+            "Scarpers Turn",
+            "Stonetree",
+            "Supply Gap",
+            "Watchers Depot"
+          ],
+          "satellites": [],
+          "artificialSatellites": ["Ruin Station"],
+          "lagrangePoints": [
+            {
+              "name": "PYR6-L1",
+              "x": 0,
+              "y": 135.77,
+              "d": 66.17
+            },
+            {
+              "name": "PYR6-L2",
+              "x": 0,
+              "y": 134.77,
+              "d": 70.88
+            },
+            {
+              "name": "Endgame",
+              "x": 0,
+              "y": -40.23,
+              "d": 68.29
+            },
+            {
+              "name": "Dudley and Daughters",
+              "x": 0,
+              "y": -155.25,
+              "d": 68.33
+            },
+            {
+              "name": "Megumi Refueling",
+              "x": 0.01,
+              "y": 64.77,
+              "d": 68.29
+            }
+          ]
+        }
+      ],
+      "artificialSatellites": [
+        {
+          "name": "Pyam-Exchang-0-1",
+          "x": 18.21,
+          "y": -150.63,
+          "d": 2.56
+        },
+
+        {
+          "name": "Pyam-Supvisr-3-4",
+          "x": 0.04,
+          "y": -145.2,
+          "d": 17.78
+        }
+      ],
+      "jumpPoints": [
+        {
+          "name": "Nyx Gateway",
+          "x": 0,
+          "y": -134.37,
+          "d": 50.43
+        },
+        {
+          "name": "Stanton Gateway",
+          "x": 0,
+          "y": 49.9,
+          "d": 53.06
+        }
+      ],
+      "other": [
+        {
+          "name": "RAB-ALPHA",
+          "x": 0,
+          "y": 23.02,
+          "d": 7.65
+        },
+        {
+          "name": "RAB-TUNG",
+          "x": 0,
+          "y": 24.84,
+          "d": 9.23
+        },
+        {
+          "name": "RAB-NOVEMBER",
+          "x": 0,
+          "y": -122.01,
+          "d": 10.33
+        },
+        {
+          "name": "RAB-WHISKEY",
+          "x": 0,
+          "y": 159.42,
+          "d": 19.58
+        },
+        {
+          "name": "RAB-BRAVO",
+          "x": 0,
+          "y": 88.12,
+          "d": 16.78
+        },
+        {
+          "name": "RAB-IGNITION",
+          "x": 0,
+          "y": 47.89,
+          "d": 17.8
+        },
+        {
+          "name": "RAB-KILO",
+          "x": 0,
+          "y": -32.82,
+          "d": 17.74
+        },
+        {
+          "name": "RAB-YORK",
+          "x": 0,
+          "y": -171.33,
+          "d": 13.89
+        },
+        {
+          "name": "RAB-CHARLIE",
+          "x": 0,
+          "y": 177.45,
+          "d": 16.22
+        },
+        {
+          "name": "RAB-GULF",
+          "x": 0,
+          "y": 156.09,
+          "d": 27.44
+        },
+        {
+          "name": "RAB-ROTH",
+          "x": 0,
+          "y": -111.72,
+          "d": 27.82
+        },
+        {
+          "name": "RAB-XENO",
+          "x": 0,
+          "y": -125.77,
+          "d": 36.45
+        },
+        {
+          "name": "RAB-FOXTROT",
+          "x": 0,
+          "y": -83.48,
+          "d": 28.68
+        },
+        {
+          "name": "RAB-DELTA",
+          "x": 0,
+          "y": -95.35,
+          "d": 42.78
+        },
+        {
+          "name": "RAB-LAMDA",
+          "x": 0,
+          "y": -94.91,
+          "d": 43.17
+        },
+        {
+          "name": "RAB-OVER",
+          "x": 0,
+          "y": -94.82,
+          "d": 43.2
+        },
+        {
+          "name": "RAB-ECHO",
+          "x": 0,
+          "y": -94.98,
+          "d": 43.26
+        },
+
+        {
+          "name": "RAB-POINT",
+          "x": 0,
+          "y": -95.85,
+          "d": 38.88
+        },
+        {
+          "name": "RAB-HELIO",
+          "x": 0,
+          "y": -89.03,
+          "d": 42.29
+        },
+        {
+          "name": "RAB-VICTORY",
+          "x": 0,
+          "y": -91.1,
+          "d": 46.44
+        },
+
+        {
+          "name": "RAB-SIERRA",
+          "x": 0,
+          "y": -96.06,
+          "d": 47.23
+        },
+        {
+          "name": "RAB-ZETA",
+          "x": 0,
+          "y": -99.48,
+          "d": 46.63
+        },
+
+        {
+          "name": "RAB-ULTRA",
+          "x": 0,
+          "y": 144.58,
+          "d": 43.71
+        },
+        {
+          "name": "RAB-MAT",
+          "x": 0,
+          "y": 123.08,
+          "d": 44.88
+        },
+
+        {
+          "name": "RAB-JAK",
+          "x": 0,
+          "y": -84.86,
+          "d": 51.67
+        },
+        {
+          "name": "RAB-QUAGMIRE",
+          "x": 0,
+          "y": -100.15,
+          "d": 55.96
+        },
+
+        {
+          "name": "RAB-LYNX",
+          "x": 0,
+          "y": 130.7,
+          "d": 67.01
+        },
+        {
+          "name": "RAB-ION",
+          "x": 0,
+          "y": 139.5,
+          "d": 69.38
+        },
+        {
+          "name": "RAB-COOK",
+          "x": 0,
+          "y": 130.52,
+          "d": 74.79
+        }
+      ]
+    }
+  ]
+}

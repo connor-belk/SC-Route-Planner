@@ -1,0 +1,133 @@
+Ship,Manufacturer,Production,Capacity
+Hull E,Musashi Industrial and Starflight Concern,In concept,12288 SCU
+Hull D,Musashi Industrial and Starflight Concern,In concept,6912 SCU
+Javelin,Aegis Dynamics,Active for Squadron 42,5400 SCU
+Hull C,Musashi Industrial and Starflight Concern,Flight ready,4608 SCU
+Kraken,Drake Interplanetary,Active production,3792 SCU
+Merchantman,Banu Souli,In concept,2880 SCU
+Ironclad,Drake Interplanetary,Active production,2204 SCU
+Ironclad Assault,Drake Interplanetary,Active production,1440 SCU
+Idris-P,Aegis Dynamics,Flight ready,1374 SCU
+Idris-M,Aegis Dynamics,Flight ready,1326 SCU
+Pioneer,Consolidated Outland,Active production,1000 SCU
+Kraken Privateer,Drake Interplanetary,In concept,768 SCU
+C2 Hercules Starlifter,Crusader Industries,Flight ready,696 SCU
+Railen,Gatac Manufacture,In concept,640 SCU
+Polaris Wikelo Special,Roberts Space Industries,Flight ready,576 SCU
+Polaris,Roberts Space Industries,Flight ready,576 SCU
+Caterpillar Pirate Edition,Drake Interplanetary,Flight ready,576 SCU
+Caterpillar Best In Show Edition,Drake Interplanetary,Flight ready,576 SCU
+Caterpillar,Drake Interplanetary,Flight ready,576 SCU
+Arrastra,Roberts Space Industries,In concept,576 SCU
+M2 Hercules Starlifter,Crusader Industries,Flight ready,522 SCU
+Hull B,Musashi Industrial and Starflight Concern,Active production,512 SCU
+Endeavor,Musashi Industrial and Starflight Concern,In concept,500 SCU
+Carrack Expedition,Anvil Aerospace,Flight ready,456 SCU
+Carrack,Anvil Aerospace,Flight ready,456 SCU
+Reclaimer Best In Show Edition,Aegis Dynamics,Flight ready,420 SCU
+Reclaimer,Aegis Dynamics,Flight ready,420 SCU
+Liberator,Anvil Aerospace,In concept,400 SCU
+890 Jump,Origin Jumpworks,Flight ready,388 SCU
+Orion,Roberts Space Industries,In concept,384 SCU
+Genesis Starliner,Crusader Industries,In concept,300 SCU
+Starfarer Gemini,Musashi Industrial and Starflight Concern,Flight ready,291 SCU
+Starfarer,Musashi Industrial and Starflight Concern,Flight ready,291 SCU
+Odyssey,Musashi Industrial and Starflight Concern,In concept,252 SCU
+Crucible,Anvil Aerospace,In concept,230 SCU
+Starlancer MAX,Musashi Industrial and Starflight Concern,Flight ready,224 SCU
+A2 Hercules Starlifter,Crusader Industries,Flight ready,216 SCU
+RAFT,Argo Astronautics,Flight ready,192 SCU
+Asgard,Anvil Aerospace,Flight ready,180 SCU
+Constellation Taurus,Roberts Space Industries,Flight ready,174 SCU
+Zeus Mk II CL,Roberts Space Industries,Flight ready,128 SCU
+Freelancer MAX,Musashi Industrial and Starflight Concern,Flight ready,120 SCU
+Mercury Star Runner,Crusader Industries,Flight ready,114 SCU
+Starlancer TAC,Musashi Industrial and Starflight Concern,Flight ready,96 SCU
+Perseus,Roberts Space Industries,Flight ready,96 SCU
+MOLE Talus,Argo Astronautics,Flight ready,96 SCU
+MOLE Carbon,Argo Astronautics,Flight ready,96 SCU
+MOLE,Argo Astronautics,Flight ready,96 SCU
+Constellation Aquila,Roberts Space Industries,Flight ready,96 SCU
+Constellation Andromeda,Roberts Space Industries,Flight ready,96 SCU
+Valkyrie Liberator,Anvil Aerospace,Flight ready,90 SCU
+Valkyrie,Anvil Aerospace,Flight ready,90 SCU
+Constellation Phoenix Emerald,Roberts Space Industries,Flight ready,80 SCU
+Constellation Phoenix,Roberts Space Industries,Flight ready,80 SCU
+Corsair,Drake Interplanetary,Flight ready,72 SCU
+Freelancer,Musashi Industrial and Starflight Concern,Flight ready,66 SCU
+Nautilus,Aegis Dynamics,In concept,64 SCU
+Hull A,Musashi Industrial and Starflight Concern,Flight ready,64 SCU
+Golem OX,Drake Interplanetary,Flight ready,64 SCU
+Galaxy,Roberts Space Industries,In concept,64 SCU
+Expanse,Musashi Industrial and Starflight Concern,In concept,64 SCU
+C1 Spirit,Crusader Industries,Flight ready,64 SCU
+Cutlass Black Best In Show Edition,Drake Interplanetary,Flight ready,46 SCU
+Cutlass Black,Drake Interplanetary,Flight ready,46 SCU
+600i Explorer,Origin Jumpworks,Flight ready,44 SCU
+600i Executive Edition,Origin Jumpworks,Flight ready,44 SCU
+400i,Origin Jumpworks,Flight ready,42 SCU
+Hammerhead Best In Show Edition,Aegis Dynamics,Flight ready,40 SCU
+Hammerhead,Aegis Dynamics,Flight ready,40 SCU
+Freelancer MIS,Musashi Industrial and Starflight Concern,Flight ready,36 SCU
+Freelancer DUR,Musashi Industrial and Starflight Concern,Flight ready,36 SCU
+Zeus Mk II ES,Roberts Space Industries,Flight ready,32 SCU
+Shiv,Grey's Market,Flight ready,32 SCU
+Prowler Utility,Esperia,Flight ready,32 SCU
+Prospector,Musashi Industrial and Starflight Concern,Flight ready,32 SCU
+Golem,Drake Interplanetary,Flight ready,32 SCU
+Apollo Triage,Roberts Space Industries,Flight ready,32 SCU
+Apollo Medivac,Roberts Space Industries,Flight ready,32 SCU
+Nomad,Consolidated Outland,Flight ready,24 SCU
+600i Touring,Origin Jumpworks,Flight ready,20 SCU
+Zeus Mk II MR,Roberts Space Industries,Active production,16 SCU
+MPUV Tractor,Argo Astronautics,Flight ready,16 SCU
+Fortune,Musashi Industrial and Starflight Concern,Flight ready,16 SCU
+Vulture,Drake Interplanetary,Flight ready,12 SCU
+Vulcan,Aegis Dynamics,In concept,12 SCU
+SRV,Argo Astronautics,Flight ready,12 SCU
+Cutlass Red,Drake Interplanetary,Flight ready,12 SCU
+Cutlass Blue,Drake Interplanetary,Flight ready,12 SCU
+Clipper,Drake Interplanetary,Flight ready,12 SCU
+315p,Origin Jumpworks,Flight ready,12 SCU
+Intrepid,Crusader Industries,Flight ready,8 SCU
+Avenger Titan Renegade,Aegis Dynamics,Flight ready,8 SCU
+Avenger Titan,Aegis Dynamics,Flight ready,8 SCU
+300i,Origin Jumpworks,Flight ready,8 SCU
+Syulen,Gatac Manufacture,Flight ready,6 SCU
+Salvation,Roberts Space Industries,Flight ready,6 SCU
+Reliant Kore,Musashi Industrial and Starflight Concern,Flight ready,6 SCU
+Aurora CL,Roberts Space Industries,Flight ready,6 SCU
+135c,Origin Jumpworks,Flight ready,6 SCU
+Paladin,Anvil Aerospace,Flight ready,4 SCU
+Mustang Alpha Vindicator,Consolidated Outland,Flight ready,4 SCU
+Mustang Alpha,Consolidated Outland,Flight ready,4 SCU
+Cutter,Drake Interplanetary,Flight ready,4 SCU
+CSV-SM,Argo Astronautics,Flight ready,4 SCU
+C8X Pisces Expedition,Anvil Aerospace,Flight ready,4 SCU
+350r,Origin Jumpworks,Flight ready,4 SCU
+325a,Origin Jumpworks,Flight ready,4 SCU
+ROC-DS,Greycat Industrial,Flight ready,3.4 SCU
+Aurora MR,Roberts Space Industries,Flight ready,3 SCU
+Aurora LX,Roberts Space Industries,Flight ready,3 SCU
+Aurora LN,Roberts Space Industries,Flight ready,3 SCU
+Aurora ES,Roberts Space Industries,Flight ready,3 SCU
+Redeemer,Aegis Dynamics,Flight ready,2 SCU
+MPUV Cargo,Argo Astronautics,Flight ready,2 SCU
+G12,Origin Jumpworks,Long term production,2 SCU
+F7C Hornet Wildfire Mk I,Anvil Aerospace,Flight ready,2 SCU
+F7C Hornet Mk II,Anvil Aerospace,Flight ready,2 SCU
+F7C Hornet Mk I,Anvil Aerospace,Flight ready,2 SCU
+F7A Hornet Mk II,Anvil Aerospace,Flight ready,2 SCU
+Cutter Scout,Drake Interplanetary,Flight ready,2 SCU
+Cutter Rambler,Drake Interplanetary,Flight ready,2 SCU
+125a,Origin Jumpworks,Flight ready,2 SCU
+100i,Origin Jumpworks,Flight ready,2 SCU
+ROC,Greycat Industrial,Flight ready,1.2 SCU
+Reliant Tana,Musashi Industrial and Starflight Concern,Flight ready,1 SCU
+Mule,Drake Interplanetary,Flight ready,1 SCU
+Cyclone,Tumbril Land Systems,Flight ready,1 SCU
+MTC,Greycat Industrial,Flight ready,0.5 SCU
+Ranger CV,Tumbril Land Systems,In concept,0.375 SCU
+MDC,Greycat Industrial,Flight ready,0.25 SCU
+STV,Greycat Industrial,Flight ready,0.2 SCU
+ATLS GEO,Argo Astronautics,Flight ready,0.1 SCU

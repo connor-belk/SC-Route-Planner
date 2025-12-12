@@ -1,0 +1,794 @@
+[
+ {
+   "Ship": "Hull E",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "In concept",
+   "Capacity": "12288 SCU"
+ },
+ {
+   "Ship": "Hull D",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "In concept",
+   "Capacity": "6912 SCU"
+ },
+ {
+   "Ship": "Javelin",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Active for Squadron 42",
+   "Capacity": "5400 SCU"
+ },
+ {
+   "Ship": "Hull C",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "4608 SCU"
+ },
+ {
+   "Ship": "Kraken",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Active production",
+   "Capacity": "3792 SCU"
+ },
+ {
+   "Ship": "Merchantman",
+   "Manufacturer": "Banu Souli",
+   "Production": "In concept",
+   "Capacity": "2880 SCU"
+ },
+ {
+   "Ship": "Ironclad",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Active production",
+   "Capacity": "2204 SCU"
+ },
+ {
+   "Ship": "Ironclad Assault",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Active production",
+   "Capacity": "1440 SCU"
+ },
+ {
+   "Ship": "Idris-P",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Flight ready",
+   "Capacity": "1374 SCU"
+ },
+ {
+   "Ship": "Idris-M",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Flight ready",
+   "Capacity": "1326 SCU"
+ },
+ {
+   "Ship": "Pioneer",
+   "Manufacturer": "Consolidated Outland",
+   "Production": "Active production",
+   "Capacity": "1000 SCU"
+ },
+ {
+   "Ship": "Kraken Privateer",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "In concept",
+   "Capacity": "768 SCU"
+ },
+ {
+   "Ship": "C2 Hercules Starlifter",
+   "Manufacturer": "Crusader Industries",
+   "Production": "Flight ready",
+   "Capacity": "696 SCU"
+ },
+ {
+   "Ship": "Railen",
+   "Manufacturer": "Gatac Manufacture",
+   "Production": "In concept",
+   "Capacity": "640 SCU"
+ },
+ {
+   "Ship": "Polaris Wikelo Special",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "576 SCU"
+ },
+ {
+   "Ship": "Polaris",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "576 SCU"
+ },
+ {
+   "Ship": "Caterpillar Pirate Edition",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "576 SCU"
+ },
+ {
+   "Ship": "Caterpillar Best In Show Edition",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "576 SCU"
+ },
+ {
+   "Ship": "Caterpillar",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "576 SCU"
+ },
+ {
+   "Ship": "Arrastra",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "In concept",
+   "Capacity": "576 SCU"
+ },
+ {
+   "Ship": "M2 Hercules Starlifter",
+   "Manufacturer": "Crusader Industries",
+   "Production": "Flight ready",
+   "Capacity": "522 SCU"
+ },
+ {
+   "Ship": "Hull B",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Active production",
+   "Capacity": "512 SCU"
+ },
+ {
+   "Ship": "Endeavor",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "In concept",
+   "Capacity": "500 SCU"
+ },
+ {
+   "Ship": "Carrack Expedition",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "456 SCU"
+ },
+ {
+   "Ship": "Carrack",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "456 SCU"
+ },
+ {
+   "Ship": "Reclaimer Best In Show Edition",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Flight ready",
+   "Capacity": "420 SCU"
+ },
+ {
+   "Ship": "Reclaimer",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Flight ready",
+   "Capacity": "420 SCU"
+ },
+ {
+   "Ship": "Liberator",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "In concept",
+   "Capacity": "400 SCU"
+ },
+ {
+   "Ship": "890 Jump",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "388 SCU"
+ },
+ {
+   "Ship": "Orion",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "In concept",
+   "Capacity": "384 SCU"
+ },
+ {
+   "Ship": "Genesis Starliner",
+   "Manufacturer": "Crusader Industries",
+   "Production": "In concept",
+   "Capacity": "300 SCU"
+ },
+ {
+   "Ship": "Starfarer Gemini",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "291 SCU"
+ },
+ {
+   "Ship": "Starfarer",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "291 SCU"
+ },
+ {
+   "Ship": "Odyssey",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "In concept",
+   "Capacity": "252 SCU"
+ },
+ {
+   "Ship": "Crucible",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "In concept",
+   "Capacity": "230 SCU"
+ },
+ {
+   "Ship": "Starlancer MAX",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "224 SCU"
+ },
+ {
+   "Ship": "A2 Hercules Starlifter",
+   "Manufacturer": "Crusader Industries",
+   "Production": "Flight ready",
+   "Capacity": "216 SCU"
+ },
+ {
+   "Ship": "RAFT",
+   "Manufacturer": "Argo Astronautics",
+   "Production": "Flight ready",
+   "Capacity": "192 SCU"
+ },
+ {
+   "Ship": "Asgard",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "180 SCU"
+ },
+ {
+   "Ship": "Constellation Taurus",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "174 SCU"
+ },
+ {
+   "Ship": "Zeus Mk II CL",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "128 SCU"
+ },
+ {
+   "Ship": "Freelancer MAX",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "120 SCU"
+ },
+ {
+   "Ship": "Mercury Star Runner",
+   "Manufacturer": "Crusader Industries",
+   "Production": "Flight ready",
+   "Capacity": "114 SCU"
+ },
+ {
+   "Ship": "Starlancer TAC",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "96 SCU"
+ },
+ {
+   "Ship": "Perseus",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "96 SCU"
+ },
+ {
+   "Ship": "MOLE Talus",
+   "Manufacturer": "Argo Astronautics",
+   "Production": "Flight ready",
+   "Capacity": "96 SCU"
+ },
+ {
+   "Ship": "MOLE Carbon",
+   "Manufacturer": "Argo Astronautics",
+   "Production": "Flight ready",
+   "Capacity": "96 SCU"
+ },
+ {
+   "Ship": "MOLE",
+   "Manufacturer": "Argo Astronautics",
+   "Production": "Flight ready",
+   "Capacity": "96 SCU"
+ },
+ {
+   "Ship": "Constellation Aquila",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "96 SCU"
+ },
+ {
+   "Ship": "Constellation Andromeda",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "96 SCU"
+ },
+ {
+   "Ship": "Valkyrie Liberator",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "90 SCU"
+ },
+ {
+   "Ship": "Valkyrie",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "90 SCU"
+ },
+ {
+   "Ship": "Constellation Phoenix Emerald",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "80 SCU"
+ },
+ {
+   "Ship": "Constellation Phoenix",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "80 SCU"
+ },
+ {
+   "Ship": "Corsair",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "72 SCU"
+ },
+ {
+   "Ship": "Freelancer",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "66 SCU"
+ },
+ {
+   "Ship": "Nautilus",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "In concept",
+   "Capacity": "64 SCU"
+ },
+ {
+   "Ship": "Hull A",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "64 SCU"
+ },
+ {
+   "Ship": "Golem OX",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "64 SCU"
+ },
+ {
+   "Ship": "Galaxy",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "In concept",
+   "Capacity": "64 SCU"
+ },
+ {
+   "Ship": "Expanse",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "In concept",
+   "Capacity": "64 SCU"
+ },
+ {
+   "Ship": "C1 Spirit",
+   "Manufacturer": "Crusader Industries",
+   "Production": "Flight ready",
+   "Capacity": "64 SCU"
+ },
+ {
+   "Ship": "Cutlass Black Best In Show Edition",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "46 SCU"
+ },
+ {
+   "Ship": "Cutlass Black",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "46 SCU"
+ },
+ {
+   "Ship": "600i Explorer",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "44 SCU"
+ },
+ {
+   "Ship": "600i Executive Edition",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "44 SCU"
+ },
+ {
+   "Ship": "400i",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "42 SCU"
+ },
+ {
+   "Ship": "Hammerhead Best In Show Edition",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Flight ready",
+   "Capacity": "40 SCU"
+ },
+ {
+   "Ship": "Hammerhead",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Flight ready",
+   "Capacity": "40 SCU"
+ },
+ {
+   "Ship": "Freelancer MIS",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "36 SCU"
+ },
+ {
+   "Ship": "Freelancer DUR",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "36 SCU"
+ },
+ {
+   "Ship": "Zeus Mk II ES",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "32 SCU"
+ },
+ {
+   "Ship": "Shiv",
+   "Manufacturer": "Grey's Market",
+   "Production": "Flight ready",
+   "Capacity": "32 SCU"
+ },
+ {
+   "Ship": "Prowler Utility",
+   "Manufacturer": "Esperia",
+   "Production": "Flight ready",
+   "Capacity": "32 SCU"
+ },
+ {
+   "Ship": "Prospector",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "32 SCU"
+ },
+ {
+   "Ship": "Golem",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "32 SCU"
+ },
+ {
+   "Ship": "Apollo Triage",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "32 SCU"
+ },
+ {
+   "Ship": "Apollo Medivac",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "32 SCU"
+ },
+ {
+   "Ship": "Nomad",
+   "Manufacturer": "Consolidated Outland",
+   "Production": "Flight ready",
+   "Capacity": "24 SCU"
+ },
+ {
+   "Ship": "600i Touring",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "20 SCU"
+ },
+ {
+   "Ship": "Zeus Mk II MR",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Active production",
+   "Capacity": "16 SCU"
+ },
+ {
+   "Ship": "MPUV Tractor",
+   "Manufacturer": "Argo Astronautics",
+   "Production": "Flight ready",
+   "Capacity": "16 SCU"
+ },
+ {
+   "Ship": "Fortune",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "16 SCU"
+ },
+ {
+   "Ship": "Vulture",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "12 SCU"
+ },
+ {
+   "Ship": "Vulcan",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "In concept",
+   "Capacity": "12 SCU"
+ },
+ {
+   "Ship": "SRV",
+   "Manufacturer": "Argo Astronautics",
+   "Production": "Flight ready",
+   "Capacity": "12 SCU"
+ },
+ {
+   "Ship": "Cutlass Red",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "12 SCU"
+ },
+ {
+   "Ship": "Cutlass Blue",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "12 SCU"
+ },
+ {
+   "Ship": "Clipper",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "12 SCU"
+ },
+ {
+   "Ship": "315p",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "12 SCU"
+ },
+ {
+   "Ship": "Intrepid",
+   "Manufacturer": "Crusader Industries",
+   "Production": "Flight ready",
+   "Capacity": "8 SCU"
+ },
+ {
+   "Ship": "Avenger Titan Renegade",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Flight ready",
+   "Capacity": "8 SCU"
+ },
+ {
+   "Ship": "Avenger Titan",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Flight ready",
+   "Capacity": "8 SCU"
+ },
+ {
+   "Ship": "300i",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "8 SCU"
+ },
+ {
+   "Ship": "Syulen",
+   "Manufacturer": "Gatac Manufacture",
+   "Production": "Flight ready",
+   "Capacity": "6 SCU"
+ },
+ {
+   "Ship": "Salvation",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "6 SCU"
+ },
+ {
+   "Ship": "Reliant Kore",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "6 SCU"
+ },
+ {
+   "Ship": "Aurora CL",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "6 SCU"
+ },
+ {
+   "Ship": "135c",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "6 SCU"
+ },
+ {
+   "Ship": "Paladin",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "4 SCU"
+ },
+ {
+   "Ship": "Mustang Alpha Vindicator",
+   "Manufacturer": "Consolidated Outland",
+   "Production": "Flight ready",
+   "Capacity": "4 SCU"
+ },
+ {
+   "Ship": "Mustang Alpha",
+   "Manufacturer": "Consolidated Outland",
+   "Production": "Flight ready",
+   "Capacity": "4 SCU"
+ },
+ {
+   "Ship": "Cutter",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "4 SCU"
+ },
+ {
+   "Ship": "CSV-SM",
+   "Manufacturer": "Argo Astronautics",
+   "Production": "Flight ready",
+   "Capacity": "4 SCU"
+ },
+ {
+   "Ship": "C8X Pisces Expedition",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "4 SCU"
+ },
+ {
+   "Ship": "350r",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "4 SCU"
+ },
+ {
+   "Ship": "325a",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "4 SCU"
+ },
+ {
+   "Ship": "ROC-DS",
+   "Manufacturer": "Greycat Industrial",
+   "Production": "Flight ready",
+   "Capacity": "3.4 SCU"
+ },
+ {
+   "Ship": "Aurora MR",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "3 SCU"
+ },
+ {
+   "Ship": "Aurora LX",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "3 SCU"
+ },
+ {
+   "Ship": "Aurora LN",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "3 SCU"
+ },
+ {
+   "Ship": "Aurora ES",
+   "Manufacturer": "Roberts Space Industries",
+   "Production": "Flight ready",
+   "Capacity": "3 SCU"
+ },
+ {
+   "Ship": "Redeemer",
+   "Manufacturer": "Aegis Dynamics",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "MPUV Cargo",
+   "Manufacturer": "Argo Astronautics",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "G12",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Long term production",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "F7C Hornet Wildfire Mk I",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "F7C Hornet Mk II",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "F7C Hornet Mk I",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "F7A Hornet Mk II",
+   "Manufacturer": "Anvil Aerospace",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "Cutter Scout",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "Cutter Rambler",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "125a",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "100i",
+   "Manufacturer": "Origin Jumpworks",
+   "Production": "Flight ready",
+   "Capacity": "2 SCU"
+ },
+ {
+   "Ship": "ROC",
+   "Manufacturer": "Greycat Industrial",
+   "Production": "Flight ready",
+   "Capacity": "1.2 SCU"
+ },
+ {
+   "Ship": "Reliant Tana",
+   "Manufacturer": "Musashi Industrial and Starflight Concern",
+   "Production": "Flight ready",
+   "Capacity": "1 SCU"
+ },
+ {
+   "Ship": "Mule",
+   "Manufacturer": "Drake Interplanetary",
+   "Production": "Flight ready",
+   "Capacity": "1 SCU"
+ },
+ {
+   "Ship": "Cyclone",
+   "Manufacturer": "Tumbril Land Systems",
+   "Production": "Flight ready",
+   "Capacity": "1 SCU"
+ },
+ {
+   "Ship": "MTC",
+   "Manufacturer": "Greycat Industrial",
+   "Production": "Flight ready",
+   "Capacity": "0.5 SCU"
+ },
+ {
+   "Ship": "Ranger CV",
+   "Manufacturer": "Tumbril Land Systems",
+   "Production": "In concept",
+   "Capacity": "0.375 SCU"
+ },
+ {
+   "Ship": "MDC",
+   "Manufacturer": "Greycat Industrial",
+   "Production": "Flight ready",
+   "Capacity": "0.25 SCU"
+ },
+ {
+   "Ship": "STV",
+   "Manufacturer": "Greycat Industrial",
+   "Production": "Flight ready",
+   "Capacity": "0.2 SCU"
+ },
+ {
+   "Ship": "ATLS GEO",
+   "Manufacturer": "Argo Astronautics",
+   "Production": "Flight ready",
+   "Capacity": "0.1 SCU"
+ }
+]
